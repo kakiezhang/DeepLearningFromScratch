@@ -1,0 +1,5 @@
+*.gz
+__pycache__
+.python-version
+*.pkl
+*.pth
